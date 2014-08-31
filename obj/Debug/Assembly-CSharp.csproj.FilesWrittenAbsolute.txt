@@ -1,0 +1,10 @@
+/Users/XuXin/Jelly/JellyProject/Temp/bin/Debug/UnityEngine.dll
+/Users/XuXin/Jelly/JellyProject/Temp/bin/Debug/UnityEditor.dll
+/Users/XuXin/Jelly/JellyProject/Temp/bin/Debug/Mono.Cecil.dll
+/Users/XuXin/Jelly/JellyProject/Temp/bin/Debug/nunit.framework.dll
+/Users/XuXin/Jelly/JellyProject/Temp/bin/Debug/Unity.DataContract.dll
+/Users/XuXin/Jelly/JellyProject/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/XuXin/Jelly/JellyProject/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/XuXin/Jelly/JellyProject/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/XuXin/Jelly/JellyProject/obj/Debug/Assembly-CSharp.dll
+/Users/XuXin/Jelly/JellyProject/obj/Debug/Assembly-CSharp.dll.mdb
